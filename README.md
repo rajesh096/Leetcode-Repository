@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/rajesh096/raju096/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/rajesh096/raju096/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/rajesh096/raju096/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/rajesh096/raju096/tree/master/0260-single-number-iii) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/rajesh096/raju096/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/rajesh096/raju096/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/rajesh096/raju096/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/rajesh096/raju096/tree/master/0260-single-number-iii) |
@@ -29,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/rajesh096/raju096/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/rajesh096/raju096/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
