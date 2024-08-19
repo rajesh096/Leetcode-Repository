@@ -40,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/rajesh096/raju096/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/rajesh096/raju096/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/rajesh096/raju096/tree/master/0090-subsets-ii) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/rajesh096/raju096/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/rajesh096/raju096/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
