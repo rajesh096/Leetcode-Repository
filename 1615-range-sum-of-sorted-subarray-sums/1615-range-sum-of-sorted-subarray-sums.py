@@ -1,8 +1,7 @@
 class Solution:
     def rangeSum(self, nums: List[int], n: int, left: int, right: int) -> int:
-        sub=[]
-        for i in range(n):
-            for j in range(i+1,n+1):
-                sub.append(sum(nums[i:j]))
-        sub.sort()
-        return (sum(sub[left-1:right]))%1000000007
+        result = []
+        for i in range(len(nums)):
+            result+=accumulate(nums[i:])
+        result = sorted(result)
+        return sum(result[left-1:right]) % (10 ** 9 + 7)
