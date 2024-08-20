@@ -4,6 +4,4 @@ class Solution:
         for i in details:
             if (int(i[11]+i[12])) > 60:
                 count+=1
-            else:
-                continue
         return count
