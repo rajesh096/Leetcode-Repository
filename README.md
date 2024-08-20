@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/rajesh096/raju096/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/rajesh096/raju096/tree/master/0260-single-number-iii) |
 | [0909-stone-game](https://github.com/rajesh096/raju096/tree/master/0909-stone-game) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rajesh096/raju096/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/rajesh096/raju096/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Bit Manipulation
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rajesh096/raju096/tree/master/0088-merge-sorted-array) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rajesh096/raju096/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/rajesh096/raju096/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Backtracking
 |  |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/rajesh096/raju096/tree/master/0909-stone-game) |
+## Hash Table
+|  |
+| ------- |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rajesh096/raju096/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 <!---LeetCode Topics End-->
