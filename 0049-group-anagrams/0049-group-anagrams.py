@@ -1,7 +1,7 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
         dic =dict()
-        res=[]
+        #res=[]
         for i in range(len(strs)):
             a=sorted(strs[i])
             b=''.join(a)
@@ -10,8 +10,9 @@ class Solution:
             a=sorted(i)
             b=''.join(a)
             dic[b].append(i)
-        for i,j in dic.items():
+        '''for i,j in dic.items():
             res.append(j)
-        res.sort()
+        res.sort()'''
+        x=sorted(dic.values())
 
-        return res
+        return x
