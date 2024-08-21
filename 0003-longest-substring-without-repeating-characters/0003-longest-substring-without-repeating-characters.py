@@ -5,6 +5,9 @@ class Solution:
         st=""
         if s==" ":
             return len(s)
+        if len(s)==1:
+            return 1
+        maxi=0
         while(i<len(s)):
             
             if s[j] not in st:
@@ -12,6 +15,7 @@ class Solution:
                 j+=1
             else:
                 res.append(st)
+                maxi=max(maxi,len(st))
                 st=""
                 i+=1
                 j=i
@@ -19,11 +23,6 @@ class Solution:
             if j==len(s):
                 i+=1
                 j=i
-        maxi=0
-        res.append(st)
-        for i in res:
-            if len(i)>maxi:
-                maxi=len(i)
         print(len(s))
         return maxi
 
