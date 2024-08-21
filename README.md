@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/rajesh096/raju096/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/rajesh096/raju096/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/rajesh096/raju096/tree/master/0260-single-number-iii) |
+| [0342-power-of-four](https://github.com/rajesh096/raju096/tree/master/0342-power-of-four) |
 ## Database
 |  |
 | ------- |
@@ -58,11 +59,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/rajesh096/raju096/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/rajesh096/raju096/tree/master/0070-climbing-stairs) |
+| [0342-power-of-four](https://github.com/rajesh096/raju096/tree/master/0342-power-of-four) |
 | [0909-stone-game](https://github.com/rajesh096/raju096/tree/master/0909-stone-game) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/rajesh096/raju096/tree/master/0050-powx-n) |
+| [0342-power-of-four](https://github.com/rajesh096/raju096/tree/master/0342-power-of-four) |
 ## Matrix
 |  |
 | ------- |
