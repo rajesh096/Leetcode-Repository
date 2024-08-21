@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/rajesh096/raju096/tree/master/0260-single-number-iii) |
 | [0824-number-of-lines-to-write-string](https://github.com/rajesh096/raju096/tree/master/0824-number-of-lines-to-write-string) |
 | [0909-stone-game](https://github.com/rajesh096/raju096/tree/master/0909-stone-game) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/rajesh096/raju096/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rajesh096/raju096/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/rajesh096/raju096/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1635-number-of-good-pairs](https://github.com/rajesh096/raju096/tree/master/1635-number-of-good-pairs) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rajesh096/raju096/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/rajesh096/raju096/tree/master/0041-first-missing-positive) |
 | [0782-jewels-and-stones](https://github.com/rajesh096/raju096/tree/master/0782-jewels-and-stones) |
+| [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/rajesh096/raju096/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rajesh096/raju096/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/rajesh096/raju096/tree/master/1635-number-of-good-pairs) |
 | [3412-permutation-difference-between-two-strings](https://github.com/rajesh096/raju096/tree/master/3412-permutation-difference-between-two-strings) |
