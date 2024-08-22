@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/rajesh096/raju096/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/rajesh096/raju096/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/rajesh096/raju096/tree/master/0342-power-of-four) |
+| [1054-complement-of-base-10-integer](https://github.com/rajesh096/raju096/tree/master/1054-complement-of-base-10-integer) |
 ## Database
 |  |
 | ------- |
