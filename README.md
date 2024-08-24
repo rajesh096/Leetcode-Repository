@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/rajesh096/raju096/tree/master/1635-number-of-good-pairs) |
 | [1945-finding-the-users-active-minutes](https://github.com/rajesh096/raju096/tree/master/1945-finding-the-users-active-minutes) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/rajesh096/raju096/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2502-sort-the-people](https://github.com/rajesh096/raju096/tree/master/2502-sort-the-people) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/rajesh096/raju096/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2727-number-of-senior-citizens](https://github.com/rajesh096/raju096/tree/master/2727-number-of-senior-citizens) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/rajesh096/raju096/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rajesh096/raju096/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/rajesh096/raju096/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/rajesh096/raju096/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2502-sort-the-people](https://github.com/rajesh096/raju096/tree/master/2502-sort-the-people) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/rajesh096/raju096/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Backtracking
 |  |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/rajesh096/raju096/tree/master/0664-strange-printer) |
 | [0782-jewels-and-stones](https://github.com/rajesh096/raju096/tree/master/0782-jewels-and-stones) |
 | [0824-number-of-lines-to-write-string](https://github.com/rajesh096/raju096/tree/master/0824-number-of-lines-to-write-string) |
+| [2502-sort-the-people](https://github.com/rajesh096/raju096/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/rajesh096/raju096/tree/master/2727-number-of-senior-citizens) |
 | [3412-permutation-difference-between-two-strings](https://github.com/rajesh096/raju096/tree/master/3412-permutation-difference-between-two-strings) |
 ## Game Theory
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rajesh096/raju096/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/rajesh096/raju096/tree/master/1635-number-of-good-pairs) |
 | [1945-finding-the-users-active-minutes](https://github.com/rajesh096/raju096/tree/master/1945-finding-the-users-active-minutes) |
+| [2502-sort-the-people](https://github.com/rajesh096/raju096/tree/master/2502-sort-the-people) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/rajesh096/raju096/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [3412-permutation-difference-between-two-strings](https://github.com/rajesh096/raju096/tree/master/3412-permutation-difference-between-two-strings) |
 ## Binary Search
