@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/rajesh096/raju096/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/rajesh096/raju096/tree/master/0070-climbing-stairs) |
 | [0342-power-of-four](https://github.com/rajesh096/raju096/tree/master/0342-power-of-four) |
+| [0564-find-the-closest-palindrome](https://github.com/rajesh096/raju096/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/rajesh096/raju096/tree/master/0592-fraction-addition-and-subtraction) |
 | [0909-stone-game](https://github.com/rajesh096/raju096/tree/master/0909-stone-game) |
 | [1635-number-of-good-pairs](https://github.com/rajesh096/raju096/tree/master/1635-number-of-good-pairs) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rajesh096/raju096/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/rajesh096/raju096/tree/master/0290-word-pattern) |
 | [0535-encode-and-decode-tinyurl](https://github.com/rajesh096/raju096/tree/master/0535-encode-and-decode-tinyurl) |
+| [0564-find-the-closest-palindrome](https://github.com/rajesh096/raju096/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/rajesh096/raju096/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/rajesh096/raju096/tree/master/0664-strange-printer) |
 | [0782-jewels-and-stones](https://github.com/rajesh096/raju096/tree/master/0782-jewels-and-stones) |
