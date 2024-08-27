@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/rajesh096/raju096/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/rajesh096/raju096/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/rajesh096/raju096/tree/master/0260-single-number-iii) |
+| [0287-find-the-duplicate-number](https://github.com/rajesh096/raju096/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rajesh096/raju096/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/rajesh096/raju096/tree/master/0643-maximum-average-subarray-i) |
 | [0824-number-of-lines-to-write-string](https://github.com/rajesh096/raju096/tree/master/0824-number-of-lines-to-write-string) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/rajesh096/raju096/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/rajesh096/raju096/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/rajesh096/raju096/tree/master/0260-single-number-iii) |
+| [0287-find-the-duplicate-number](https://github.com/rajesh096/raju096/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/rajesh096/raju096/tree/master/0342-power-of-four) |
 | [1054-complement-of-base-10-integer](https://github.com/rajesh096/raju096/tree/master/1054-complement-of-base-10-integer) |
 ## Database
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/rajesh096/raju096/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rajesh096/raju096/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/rajesh096/raju096/tree/master/0151-reverse-words-in-a-string) |
+| [0287-find-the-duplicate-number](https://github.com/rajesh096/raju096/tree/master/0287-find-the-duplicate-number) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/rajesh096/raju096/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/rajesh096/raju096/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## String
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rajesh096/raju096/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/rajesh096/raju096/tree/master/0287-find-the-duplicate-number) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajesh096/raju096/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/rajesh096/raju096/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/rajesh096/raju096/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
