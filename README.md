@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/rajesh096/raju096/tree/master/2502-sort-the-people) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/rajesh096/raju096/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2727-number-of-senior-citizens](https://github.com/rajesh096/raju096/tree/master/2727-number-of-senior-citizens) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/rajesh096/raju096/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/rajesh096/raju096/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/rajesh096/raju096/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/rajesh096/raju096/tree/master/0342-power-of-four) |
 | [1054-complement-of-base-10-integer](https://github.com/rajesh096/raju096/tree/master/1054-complement-of-base-10-integer) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/rajesh096/raju096/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Database
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2378-sender-with-largest-word-count](https://github.com/rajesh096/raju096/tree/master/2378-sender-with-largest-word-count) |
 | [2502-sort-the-people](https://github.com/rajesh096/raju096/tree/master/2502-sort-the-people) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/rajesh096/raju096/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/rajesh096/raju096/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3412-permutation-difference-between-two-strings](https://github.com/rajesh096/raju096/tree/master/3412-permutation-difference-between-two-strings) |
 ## Binary Search
 |  |
