@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/rajesh096/raju096/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rajesh096/raju096/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/rajesh096/raju096/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/rajesh096/raju096/tree/master/0658-find-k-closest-elements) |
 | [0824-number-of-lines-to-write-string](https://github.com/rajesh096/raju096/tree/master/0824-number-of-lines-to-write-string) |
 | [0909-stone-game](https://github.com/rajesh096/raju096/tree/master/0909-stone-game) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/rajesh096/raju096/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rajesh096/raju096/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/rajesh096/raju096/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/rajesh096/raju096/tree/master/0242-valid-anagram) |
+| [0658-find-k-closest-elements](https://github.com/rajesh096/raju096/tree/master/0658-find-k-closest-elements) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajesh096/raju096/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rajesh096/raju096/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/rajesh096/raju096/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rajesh096/raju096/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/rajesh096/raju096/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/rajesh096/raju096/tree/master/0287-find-the-duplicate-number) |
+| [0658-find-k-closest-elements](https://github.com/rajesh096/raju096/tree/master/0658-find-k-closest-elements) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/rajesh096/raju096/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/rajesh096/raju096/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## String
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/rajesh096/raju096/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/rajesh096/raju096/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/rajesh096/raju096/tree/master/0287-find-the-duplicate-number) |
+| [0658-find-k-closest-elements](https://github.com/rajesh096/raju096/tree/master/0658-find-k-closest-elements) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajesh096/raju096/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/rajesh096/raju096/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/rajesh096/raju096/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -202,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/rajesh096/raju096/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/rajesh096/raju096/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/rajesh096/raju096/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/rajesh096/raju096/tree/master/0658-find-k-closest-elements) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/rajesh096/raju096/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Counting
 |  |
@@ -239,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rajesh096/raju096/tree/master/0209-minimum-size-subarray-sum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/rajesh096/raju096/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
