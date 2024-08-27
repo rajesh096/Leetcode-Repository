@@ -7,8 +7,7 @@ class Solution:
         while(j<len(nums)):
             count+=nums[j]
             if count>=target:
-                n=len(nums[i:j+1])
-                print(n)
+                n=j-i+1
                 mini=min(mini,n)
                 count-=nums[i]
                 count-=nums[j]
