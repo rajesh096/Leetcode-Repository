@@ -4,7 +4,7 @@ class Solution:
         i,j=0,0
         count=0
         f=False
-        while(i<len(nums)):
+        while(j<len(nums)):
             count+=nums[j]
             if count>=target:
                 n=len(nums[i:j+1])
@@ -16,11 +16,11 @@ class Solution:
                 f=True
             else:
                 j+=1
-            if j==len(nums):
-                count-=nums[i]
-                count-=nums[j-1]
-                i+=1
-                j-=1
+            # if j==len(nums):
+            #     count-=nums[i]
+            #     count-=nums[j-1]
+            #     i+=1
+            #     j-=1
         if f:
             return mini
         else:
