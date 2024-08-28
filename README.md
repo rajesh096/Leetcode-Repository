@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/rajesh096/raju096/tree/master/0658-find-k-closest-elements) |
 | [0824-number-of-lines-to-write-string](https://github.com/rajesh096/raju096/tree/master/0824-number-of-lines-to-write-string) |
 | [0909-stone-game](https://github.com/rajesh096/raju096/tree/master/0909-stone-game) |
+| [1370-count-number-of-nice-subarrays](https://github.com/rajesh096/raju096/tree/master/1370-count-number-of-nice-subarrays) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/rajesh096/raju096/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rajesh096/raju096/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajesh096/raju096/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/rajesh096/raju096/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/rajesh096/raju096/tree/master/0592-fraction-addition-and-subtraction) |
 | [0909-stone-game](https://github.com/rajesh096/raju096/tree/master/0909-stone-game) |
+| [1370-count-number-of-nice-subarrays](https://github.com/rajesh096/raju096/tree/master/1370-count-number-of-nice-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/rajesh096/raju096/tree/master/1635-number-of-good-pairs) |
 ## Recursion
 |  |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/rajesh096/raju096/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/rajesh096/raju096/tree/master/0535-encode-and-decode-tinyurl) |
 | [0782-jewels-and-stones](https://github.com/rajesh096/raju096/tree/master/0782-jewels-and-stones) |
+| [1370-count-number-of-nice-subarrays](https://github.com/rajesh096/raju096/tree/master/1370-count-number-of-nice-subarrays) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/rajesh096/raju096/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajesh096/raju096/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rajesh096/raju096/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/rajesh096/raju096/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/rajesh096/raju096/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/rajesh096/raju096/tree/master/0658-find-k-closest-elements) |
+| [1370-count-number-of-nice-subarrays](https://github.com/rajesh096/raju096/tree/master/1370-count-number-of-nice-subarrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rajesh096/raju096/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/rajesh096/raju096/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Counting
