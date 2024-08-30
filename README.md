@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/rajesh096/raju096/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/rajesh096/raju096/tree/master/0042-trapping-rain-water) |
 | [0047-permutations-ii](https://github.com/rajesh096/raju096/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/rajesh096/raju096/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/rajesh096/raju096/tree/master/0054-spiral-matrix) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rajesh096/raju096/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/rajesh096/raju096/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/rajesh096/raju096/tree/master/0139-word-break) |
 | [0664-strange-printer](https://github.com/rajesh096/raju096/tree/master/0664-strange-printer) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rajesh096/raju096/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/rajesh096/raju096/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rajesh096/raju096/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/rajesh096/raju096/tree/master/0151-reverse-words-in-a-string) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/rajesh096/raju096/tree/master/0042-trapping-rain-water) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/rajesh096/raju096/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Tree
 |  |
@@ -294,4 +298,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2035-count-sub-islands](https://github.com/rajesh096/raju096/tree/master/2035-count-sub-islands) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/rajesh096/raju096/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
