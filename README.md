@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/rajesh096/raju096/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/rajesh096/raju096/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/rajesh096/raju096/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/rajesh096/raju096/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/rajesh096/raju096/tree/master/0389-find-the-difference) |
 | [0535-encode-and-decode-tinyurl](https://github.com/rajesh096/raju096/tree/master/0535-encode-and-decode-tinyurl) |
 | [0564-find-the-closest-palindrome](https://github.com/rajesh096/raju096/tree/master/0564-find-the-closest-palindrome) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/rajesh096/raju096/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/rajesh096/raju096/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/rajesh096/raju096/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/rajesh096/raju096/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/rajesh096/raju096/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rajesh096/raju096/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0535-encode-and-decode-tinyurl](https://github.com/rajesh096/raju096/tree/master/0535-encode-and-decode-tinyurl) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/rajesh096/raju096/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/rajesh096/raju096/tree/master/0383-ransom-note) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajesh096/raju096/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/rajesh096/raju096/tree/master/1635-number-of-good-pairs) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rajesh096/raju096/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
