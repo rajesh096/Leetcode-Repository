@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/rajesh096/raju096/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/rajesh096/raju096/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/rajesh096/raju096/tree/master/0397-integer-replacement) |
+| [0461-hamming-distance](https://github.com/rajesh096/raju096/tree/master/0461-hamming-distance) |
 | [1054-complement-of-base-10-integer](https://github.com/rajesh096/raju096/tree/master/1054-complement-of-base-10-integer) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/rajesh096/raju096/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/rajesh096/raju096/tree/master/3193-maximum-strong-pair-xor-i) |
