@@ -1,8 +1,14 @@
 class Solution:
     def findTheDifference(self, s: str, t: str) -> str:
-        c=0
-        for i in s:
-            c=c^(ord(i))
+        d={}
         for i in t:
-            c=ord(i)^c
-        return chr(c)
+            if i in d:
+                d[i]+=1
+            else:
+                d[i]=1
+        for i in s:
+            d[i]-=1
+        for i,j in d.items():
+            if(j==1):
+                return i
+        return 0
