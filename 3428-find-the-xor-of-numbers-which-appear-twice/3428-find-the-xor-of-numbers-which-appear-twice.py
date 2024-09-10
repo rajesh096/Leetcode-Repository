@@ -1,11 +1,8 @@
 class Solution:
     def duplicateNumbersXOR(self, nums: List[int]) -> int:
-        c = Counter(nums)
-        res = []
-        for k,v in c.items():
-            if v==2:
-                res.append(k)
-        xor = 0
-        for i in res:
-            xor = xor ^ i
-        return xor
+        x = Counter(nums)
+        xor = [y for y,count in x.items() if count == 2]
+        ans = 0
+        for num in xor:
+            ans ^= num
+        return ans          
