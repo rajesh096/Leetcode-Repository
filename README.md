@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/rajesh096/raju096/tree/master/2727-number-of-senior-citizens) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/rajesh096/raju096/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/rajesh096/raju096/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/rajesh096/raju096/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/rajesh096/raju096/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/rajesh096/raju096/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Bit Manipulation
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/rajesh096/raju096/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/rajesh096/raju096/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/rajesh096/raju096/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/rajesh096/raju096/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/rajesh096/raju096/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/rajesh096/raju096/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Database
