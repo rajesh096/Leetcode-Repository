@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/rajesh096/raju096/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/rajesh096/raju096/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/rajesh096/raju096/tree/master/0389-find-the-difference) |
+| [0451-sort-characters-by-frequency](https://github.com/rajesh096/raju096/tree/master/0451-sort-characters-by-frequency) |
 | [0539-minimum-time-difference](https://github.com/rajesh096/raju096/tree/master/0539-minimum-time-difference) |
 | [0658-find-k-closest-elements](https://github.com/rajesh096/raju096/tree/master/0658-find-k-closest-elements) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajesh096/raju096/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/rajesh096/raju096/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/rajesh096/raju096/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/rajesh096/raju096/tree/master/0443-string-compression) |
+| [0451-sort-characters-by-frequency](https://github.com/rajesh096/raju096/tree/master/0451-sort-characters-by-frequency) |
 | [0535-encode-and-decode-tinyurl](https://github.com/rajesh096/raju096/tree/master/0535-encode-and-decode-tinyurl) |
 | [0539-minimum-time-difference](https://github.com/rajesh096/raju096/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/rajesh096/raju096/tree/master/0564-find-the-closest-palindrome) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/rajesh096/raju096/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/rajesh096/raju096/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rajesh096/raju096/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/rajesh096/raju096/tree/master/0451-sort-characters-by-frequency) |
 | [0535-encode-and-decode-tinyurl](https://github.com/rajesh096/raju096/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/rajesh096/raju096/tree/master/0560-subarray-sum-equals-k) |
 | [0782-jewels-and-stones](https://github.com/rajesh096/raju096/tree/master/0782-jewels-and-stones) |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/rajesh096/raju096/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/rajesh096/raju096/tree/master/0383-ransom-note) |
+| [0451-sort-characters-by-frequency](https://github.com/rajesh096/raju096/tree/master/0451-sort-characters-by-frequency) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajesh096/raju096/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/rajesh096/raju096/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rajesh096/raju096/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -341,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/rajesh096/raju096/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/rajesh096/raju096/tree/master/0658-find-k-closest-elements) |
 ## Breadth-First Search
 |  |
@@ -368,4 +373,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/rajesh096/raju096/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/rajesh096/raju096/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
