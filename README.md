@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/rajesh096/raju096/tree/master/0070-climbing-stairs) |
 | [0342-power-of-four](https://github.com/rajesh096/raju096/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/rajesh096/raju096/tree/master/0371-sum-of-two-integers) |
+| [0445-add-two-numbers-ii](https://github.com/rajesh096/raju096/tree/master/0445-add-two-numbers-ii) |
 | [0539-minimum-time-difference](https://github.com/rajesh096/raju096/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/rajesh096/raju096/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/rajesh096/raju096/tree/master/0592-fraction-addition-and-subtraction) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rajesh096/raju096/tree/master/0042-trapping-rain-water) |
+| [0445-add-two-numbers-ii](https://github.com/rajesh096/raju096/tree/master/0445-add-two-numbers-ii) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/rajesh096/raju096/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Tree
 |  |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0445-add-two-numbers-ii](https://github.com/rajesh096/raju096/tree/master/0445-add-two-numbers-ii) |
 | [1484-linked-list-in-binary-tree](https://github.com/rajesh096/raju096/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
