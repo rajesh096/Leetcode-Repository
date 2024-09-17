@@ -9,12 +9,12 @@ class Solution:
             if(nums[mid]!=b and nums[mid]!=a):
                 return nums[mid]
             elif(nums[mid]==a):
-                if(len(nums[:mid])%2==0):
+                if((mid)%2==0):
                     e=mid-1
                 else:
                     s=mid+1
             else:
-                if(len(nums[mid:])%2==1):
+                if((mid+1)%2==1):
                     s=mid+1
                 else:
                     e=mid-1
