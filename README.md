@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/rajesh096/raju096/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/rajesh096/raju096/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/rajesh096/raju096/tree/master/0241-different-ways-to-add-parentheses) |
 | [0342-power-of-four](https://github.com/rajesh096/raju096/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/rajesh096/raju096/tree/master/0371-sum-of-two-integers) |
 | [0445-add-two-numbers-ii](https://github.com/rajesh096/raju096/tree/master/0445-add-two-numbers-ii) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/rajesh096/raju096/tree/master/0050-powx-n) |
+| [0241-different-ways-to-add-parentheses](https://github.com/rajesh096/raju096/tree/master/0241-different-ways-to-add-parentheses) |
 | [0342-power-of-four](https://github.com/rajesh096/raju096/tree/master/0342-power-of-four) |
 ## Matrix
 |  |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rajesh096/raju096/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/rajesh096/raju096/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/rajesh096/raju096/tree/master/0139-word-break) |
+| [0241-different-ways-to-add-parentheses](https://github.com/rajesh096/raju096/tree/master/0241-different-ways-to-add-parentheses) |
 | [0397-integer-replacement](https://github.com/rajesh096/raju096/tree/master/0397-integer-replacement) |
 | [0664-strange-printer](https://github.com/rajesh096/raju096/tree/master/0664-strange-printer) |
 | [0909-stone-game](https://github.com/rajesh096/raju096/tree/master/0909-stone-game) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/rajesh096/raju096/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/rajesh096/raju096/tree/master/0139-word-break) |
+| [0241-different-ways-to-add-parentheses](https://github.com/rajesh096/raju096/tree/master/0241-different-ways-to-add-parentheses) |
 | [0397-integer-replacement](https://github.com/rajesh096/raju096/tree/master/0397-integer-replacement) |
 ## Two Pointers
 |  |
@@ -220,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/rajesh096/raju096/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/rajesh096/raju096/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/rajesh096/raju096/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/rajesh096/raju096/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/rajesh096/raju096/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/rajesh096/raju096/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/rajesh096/raju096/tree/master/0383-ransom-note) |
