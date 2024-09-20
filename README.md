@@ -413,4 +413,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/rajesh096/raju096/tree/master/0214-shortest-palindrome) |
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/rajesh096/raju096/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
