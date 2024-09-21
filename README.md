@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/rajesh096/raju096/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/rajesh096/raju096/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/rajesh096/raju096/tree/master/0137-single-number-ii) |
+| [0187-repeated-dna-sequences](https://github.com/rajesh096/raju096/tree/master/0187-repeated-dna-sequences) |
 | [0260-single-number-iii](https://github.com/rajesh096/raju096/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/rajesh096/raju096/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/rajesh096/raju096/tree/master/0342-power-of-four) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/rajesh096/raju096/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/rajesh096/raju096/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/rajesh096/raju096/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/rajesh096/raju096/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/rajesh096/raju096/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rajesh096/raju096/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/rajesh096/raju096/tree/master/0242-valid-anagram) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/rajesh096/raju096/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/rajesh096/raju096/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/rajesh096/raju096/tree/master/0139-word-break) |
+| [0187-repeated-dna-sequences](https://github.com/rajesh096/raju096/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/rajesh096/raju096/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/rajesh096/raju096/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/rajesh096/raju096/tree/master/0242-valid-anagram) |
@@ -315,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajesh096/raju096/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/rajesh096/raju096/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/rajesh096/raju096/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/rajesh096/raju096/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/rajesh096/raju096/tree/master/0643-maximum-average-subarray-i) |
@@ -344,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/rajesh096/raju096/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/rajesh096/raju096/tree/master/0214-shortest-palindrome) |
 | [0535-encode-and-decode-tinyurl](https://github.com/rajesh096/raju096/tree/master/0535-encode-and-decode-tinyurl) |
 ## Stack
@@ -416,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Rolling Hash
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/rajesh096/raju096/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/rajesh096/raju096/tree/master/0214-shortest-palindrome) |
 ## String Matching
 |  |
