@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/rajesh096/raju096/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/rajesh096/raju096/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2727-number-of-senior-citizens](https://github.com/rajesh096/raju096/tree/master/2727-number-of-senior-citizens) |
+| [2755-extra-characters-in-a-string](https://github.com/rajesh096/raju096/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/rajesh096/raju096/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/rajesh096/raju096/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/rajesh096/raju096/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/rajesh096/raju096/tree/master/0664-strange-printer) |
 | [0909-stone-game](https://github.com/rajesh096/raju096/tree/master/0909-stone-game) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rajesh096/raju096/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2755-extra-characters-in-a-string](https://github.com/rajesh096/raju096/tree/master/2755-extra-characters-in-a-string) |
 ## Memoization
 |  |
 | ------- |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2543-most-popular-video-creator](https://github.com/rajesh096/raju096/tree/master/2543-most-popular-video-creator) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/rajesh096/raju096/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2727-number-of-senior-citizens](https://github.com/rajesh096/raju096/tree/master/2727-number-of-senior-citizens) |
+| [2755-extra-characters-in-a-string](https://github.com/rajesh096/raju096/tree/master/2755-extra-characters-in-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/rajesh096/raju096/tree/master/3412-permutation-difference-between-two-strings) |
 ## Game Theory
 |  |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/rajesh096/raju096/tree/master/2502-sort-the-people) |
 | [2543-most-popular-video-creator](https://github.com/rajesh096/raju096/tree/master/2543-most-popular-video-creator) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/rajesh096/raju096/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
+| [2755-extra-characters-in-a-string](https://github.com/rajesh096/raju096/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/rajesh096/raju096/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/rajesh096/raju096/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/rajesh096/raju096/tree/master/3412-permutation-difference-between-two-strings) |
@@ -380,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/rajesh096/raju096/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/rajesh096/raju096/tree/master/0386-lexicographical-numbers) |
+| [2755-extra-characters-in-a-string](https://github.com/rajesh096/raju096/tree/master/2755-extra-characters-in-a-string) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/rajesh096/raju096/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Prefix Sum
 |  |
