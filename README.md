@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/rajesh096/raju096/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rajesh096/raju096/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/rajesh096/raju096/tree/master/0371-sum-of-two-integers) |
+| [0390-elimination-game](https://github.com/rajesh096/raju096/tree/master/0390-elimination-game) |
 | [0445-add-two-numbers-ii](https://github.com/rajesh096/raju096/tree/master/0445-add-two-numbers-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rajesh096/raju096/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/rajesh096/raju096/tree/master/0539-minimum-time-difference) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/rajesh096/raju096/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/rajesh096/raju096/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rajesh096/raju096/tree/master/0342-power-of-four) |
+| [0390-elimination-game](https://github.com/rajesh096/raju096/tree/master/0390-elimination-game) |
 | [1013-fibonacci-number](https://github.com/rajesh096/raju096/tree/master/1013-fibonacci-number) |
 ## Matrix
 |  |
