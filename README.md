@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rajesh096/raju096/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rajesh096/raju096/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/rajesh096/raju096/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/rajesh096/raju096/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/rajesh096/raju096/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rajesh096/raju096/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/rajesh096/raju096/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/rajesh096/raju096/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajesh096/raju096/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rajesh096/raju096/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/rajesh096/raju096/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/rajesh096/raju096/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rajesh096/raju096/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1945-finding-the-users-active-minutes](https://github.com/rajesh096/raju096/tree/master/1945-finding-the-users-active-minutes) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/rajesh096/raju096/tree/master/0451-sort-characters-by-frequency) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/rajesh096/raju096/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajesh096/raju096/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/rajesh096/raju096/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/rajesh096/raju096/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rajesh096/raju096/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rajesh096/raju096/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
