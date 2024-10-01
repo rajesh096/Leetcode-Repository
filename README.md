@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/rajesh096/raju096/tree/master/0334-increasing-triplet-subsequence) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/rajesh096/raju096/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rajesh096/raju096/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0486-predict-the-winner](https://github.com/rajesh096/raju096/tree/master/0486-predict-the-winner) |
 | [0539-minimum-time-difference](https://github.com/rajesh096/raju096/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rajesh096/raju096/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rajesh096/raju096/tree/master/0560-subarray-sum-equals-k) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0390-elimination-game](https://github.com/rajesh096/raju096/tree/master/0390-elimination-game) |
 | [0445-add-two-numbers-ii](https://github.com/rajesh096/raju096/tree/master/0445-add-two-numbers-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rajesh096/raju096/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0486-predict-the-winner](https://github.com/rajesh096/raju096/tree/master/0486-predict-the-winner) |
 | [0539-minimum-time-difference](https://github.com/rajesh096/raju096/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/rajesh096/raju096/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/rajesh096/raju096/tree/master/0592-fraction-addition-and-subtraction) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/rajesh096/raju096/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rajesh096/raju096/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/rajesh096/raju096/tree/master/0390-elimination-game) |
+| [0486-predict-the-winner](https://github.com/rajesh096/raju096/tree/master/0486-predict-the-winner) |
 | [1013-fibonacci-number](https://github.com/rajesh096/raju096/tree/master/1013-fibonacci-number) |
 ## Matrix
 |  |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/rajesh096/raju096/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rajesh096/raju096/tree/master/0241-different-ways-to-add-parentheses) |
 | [0397-integer-replacement](https://github.com/rajesh096/raju096/tree/master/0397-integer-replacement) |
+| [0486-predict-the-winner](https://github.com/rajesh096/raju096/tree/master/0486-predict-the-winner) |
 | [0664-strange-printer](https://github.com/rajesh096/raju096/tree/master/0664-strange-printer) |
 | [0909-stone-game](https://github.com/rajesh096/raju096/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/rajesh096/raju096/tree/master/1013-fibonacci-number) |
@@ -283,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/rajesh096/raju096/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/rajesh096/raju096/tree/master/0909-stone-game) |
 ## Hash Table
 |  |
