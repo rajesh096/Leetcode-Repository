@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/rajesh096/raju096/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/rajesh096/raju096/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/rajesh096/raju096/tree/master/0090-subsets-ii) |
+| [0130-surrounded-regions](https://github.com/rajesh096/raju096/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/rajesh096/raju096/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/rajesh096/raju096/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/rajesh096/raju096/tree/master/0139-word-break) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/rajesh096/raju096/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/rajesh096/raju096/tree/master/0059-spiral-matrix-ii) |
+| [0130-surrounded-regions](https://github.com/rajesh096/raju096/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rajesh096/raju096/tree/master/0200-number-of-islands) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajesh096/raju096/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2035-count-sub-islands](https://github.com/rajesh096/raju096/tree/master/2035-count-sub-islands) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/rajesh096/raju096/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rajesh096/raju096/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/rajesh096/raju096/tree/master/0386-lexicographical-numbers) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/rajesh096/raju096/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -444,12 +447,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/rajesh096/raju096/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rajesh096/raju096/tree/master/0200-number-of-islands) |
 | [1484-linked-list-in-binary-tree](https://github.com/rajesh096/raju096/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/rajesh096/raju096/tree/master/2035-count-sub-islands) |
 ## Union Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/rajesh096/raju096/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rajesh096/raju096/tree/master/0200-number-of-islands) |
 | [2035-count-sub-islands](https://github.com/rajesh096/raju096/tree/master/2035-count-sub-islands) |
 ## Monotonic Stack
