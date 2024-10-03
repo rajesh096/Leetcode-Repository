@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/rajesh096/raju096/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rajesh096/raju096/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/rajesh096/raju096/tree/master/0179-largest-number) |
+| [0200-number-of-islands](https://github.com/rajesh096/raju096/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/rajesh096/raju096/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/rajesh096/raju096/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/rajesh096/raju096/tree/master/0229-majority-element-ii) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/rajesh096/raju096/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/rajesh096/raju096/tree/master/0059-spiral-matrix-ii) |
+| [0200-number-of-islands](https://github.com/rajesh096/raju096/tree/master/0200-number-of-islands) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajesh096/raju096/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2035-count-sub-islands](https://github.com/rajesh096/raju096/tree/master/2035-count-sub-islands) |
 ## Simulation
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/rajesh096/raju096/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/rajesh096/raju096/tree/master/0386-lexicographical-numbers) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/rajesh096/raju096/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1484-linked-list-in-binary-tree](https://github.com/rajesh096/raju096/tree/master/1484-linked-list-in-binary-tree) |
@@ -441,11 +444,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/rajesh096/raju096/tree/master/0200-number-of-islands) |
 | [1484-linked-list-in-binary-tree](https://github.com/rajesh096/raju096/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/rajesh096/raju096/tree/master/2035-count-sub-islands) |
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/rajesh096/raju096/tree/master/0200-number-of-islands) |
 | [2035-count-sub-islands](https://github.com/rajesh096/raju096/tree/master/2035-count-sub-islands) |
 ## Monotonic Stack
 |  |
