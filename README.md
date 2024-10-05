@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/rajesh096/raju096/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/rajesh096/raju096/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/rajesh096/raju096/tree/master/0090-subsets-ii) |
+| [0357-count-numbers-with-unique-digits](https://github.com/rajesh096/raju096/tree/master/0357-count-numbers-with-unique-digits) |
 ## Math
 |  |
 | ------- |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rajesh096/raju096/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/rajesh096/raju096/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rajesh096/raju096/tree/master/0342-power-of-four) |
+| [0357-count-numbers-with-unique-digits](https://github.com/rajesh096/raju096/tree/master/0357-count-numbers-with-unique-digits) |
 | [0371-sum-of-two-integers](https://github.com/rajesh096/raju096/tree/master/0371-sum-of-two-integers) |
 | [0390-elimination-game](https://github.com/rajesh096/raju096/tree/master/0390-elimination-game) |
 | [0445-add-two-numbers-ii](https://github.com/rajesh096/raju096/tree/master/0445-add-two-numbers-ii) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/rajesh096/raju096/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/rajesh096/raju096/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rajesh096/raju096/tree/master/0241-different-ways-to-add-parentheses) |
+| [0357-count-numbers-with-unique-digits](https://github.com/rajesh096/raju096/tree/master/0357-count-numbers-with-unique-digits) |
 | [0397-integer-replacement](https://github.com/rajesh096/raju096/tree/master/0397-integer-replacement) |
 | [0486-predict-the-winner](https://github.com/rajesh096/raju096/tree/master/0486-predict-the-winner) |
 | [0664-strange-printer](https://github.com/rajesh096/raju096/tree/master/0664-strange-printer) |
