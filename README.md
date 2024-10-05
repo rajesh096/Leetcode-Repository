@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/rajesh096/raju096/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/rajesh096/raju096/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/rajesh096/raju096/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/rajesh096/raju096/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/rajesh096/raju096/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/rajesh096/raju096/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/rajesh096/raju096/tree/master/0078-subsets) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/rajesh096/raju096/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/rajesh096/raju096/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/rajesh096/raju096/tree/master/0324-wiggle-sort-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/rajesh096/raju096/tree/master/0334-increasing-triplet-subsequence) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rajesh096/raju096/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/rajesh096/raju096/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/rajesh096/raju096/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/rajesh096/raju096/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rajesh096/raju096/tree/master/0241-different-ways-to-add-parentheses) |
