@@ -10,10 +10,7 @@ class Solution:
         if s1==sorted(res):
             return True
         for i in range(len(s2)-n):
-            x=res
-            li=list(x)
-            li.pop(i)
-            res=''.join(li)
+            res=res[1:]
             res+=s2[n+i]
             if(s1==sorted(res)):
                 return True
