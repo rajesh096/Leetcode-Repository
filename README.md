@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/rajesh096/raju096/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0906-walking-robot-simulation](https://github.com/rajesh096/raju096/tree/master/0906-walking-robot-simulation) |
 | [0909-stone-game](https://github.com/rajesh096/raju096/tree/master/0909-stone-game) |
+| [1072-next-greater-node-in-linked-list](https://github.com/rajesh096/raju096/tree/master/1072-next-greater-node-in-linked-list) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rajesh096/raju096/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/rajesh096/raju096/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/rajesh096/raju096/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rajesh096/raju096/tree/master/0042-trapping-rain-water) |
 | [0445-add-two-numbers-ii](https://github.com/rajesh096/raju096/tree/master/0445-add-two-numbers-ii) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/rajesh096/raju096/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1072-next-greater-node-in-linked-list](https://github.com/rajesh096/raju096/tree/master/1072-next-greater-node-in-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -487,10 +489,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rajesh096/raju096/tree/master/0042-trapping-rain-water) |
+| [1072-next-greater-node-in-linked-list](https://github.com/rajesh096/raju096/tree/master/1072-next-greater-node-in-linked-list) |
 ## Linked List
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/rajesh096/raju096/tree/master/0445-add-two-numbers-ii) |
+| [1072-next-greater-node-in-linked-list](https://github.com/rajesh096/raju096/tree/master/1072-next-greater-node-in-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/rajesh096/raju096/tree/master/1484-linked-list-in-binary-tree) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/rajesh096/raju096/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Binary Tree
