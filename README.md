@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/rajesh096/raju096/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rajesh096/raju096/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/rajesh096/raju096/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/rajesh096/raju096/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/rajesh096/raju096/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/rajesh096/raju096/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/rajesh096/raju096/tree/master/0713-subarray-product-less-than-k) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/rajesh096/raju096/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/rajesh096/raju096/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/rajesh096/raju096/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/rajesh096/raju096/tree/master/0605-can-place-flowers) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/rajesh096/raju096/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/rajesh096/raju096/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/rajesh096/raju096/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
