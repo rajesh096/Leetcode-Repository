@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/rajesh096/raju096/tree/master/0906-walking-robot-simulation) |
 | [0909-stone-game](https://github.com/rajesh096/raju096/tree/master/0909-stone-game) |
 | [0940-fruit-into-baskets](https://github.com/rajesh096/raju096/tree/master/0940-fruit-into-baskets) |
+| [1002-maximum-width-ramp](https://github.com/rajesh096/raju096/tree/master/1002-maximum-width-ramp) |
 | [1034-subarrays-with-k-different-integers](https://github.com/rajesh096/raju096/tree/master/1034-subarrays-with-k-different-integers) |
 | [1072-next-greater-node-in-linked-list](https://github.com/rajesh096/raju096/tree/master/1072-next-greater-node-in-linked-list) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rajesh096/raju096/tree/master/1370-count-number-of-nice-subarrays) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/rajesh096/raju096/tree/master/0316-remove-duplicate-letters) |
 | [0445-add-two-numbers-ii](https://github.com/rajesh096/raju096/tree/master/0445-add-two-numbers-ii) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/rajesh096/raju096/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1002-maximum-width-ramp](https://github.com/rajesh096/raju096/tree/master/1002-maximum-width-ramp) |
 | [1072-next-greater-node-in-linked-list](https://github.com/rajesh096/raju096/tree/master/1072-next-greater-node-in-linked-list) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/rajesh096/raju096/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Tree
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rajesh096/raju096/tree/master/0042-trapping-rain-water) |
 | [0316-remove-duplicate-letters](https://github.com/rajesh096/raju096/tree/master/0316-remove-duplicate-letters) |
+| [1002-maximum-width-ramp](https://github.com/rajesh096/raju096/tree/master/1002-maximum-width-ramp) |
 | [1072-next-greater-node-in-linked-list](https://github.com/rajesh096/raju096/tree/master/1072-next-greater-node-in-linked-list) |
 ## Linked List
 |  |
