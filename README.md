@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/rajesh096/raju096/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2543-most-popular-video-creator](https://github.com/rajesh096/raju096/tree/master/2543-most-popular-video-creator) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/rajesh096/raju096/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/rajesh096/raju096/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/rajesh096/raju096/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/rajesh096/raju096/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2727-number-of-senior-citizens](https://github.com/rajesh096/raju096/tree/master/2727-number-of-senior-citizens) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rajesh096/raju096/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/rajesh096/raju096/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/rajesh096/raju096/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/rajesh096/raju096/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/rajesh096/raju096/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 ## Sorting
 |  |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rajesh096/raju096/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/rajesh096/raju096/tree/master/0658-find-k-closest-elements) |
 | [2543-most-popular-video-creator](https://github.com/rajesh096/raju096/tree/master/2543-most-popular-video-creator) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/rajesh096/raju096/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Breadth-First Search
 |  |
 | ------- |
