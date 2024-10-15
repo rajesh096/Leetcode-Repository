@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/rajesh096/raju096/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/rajesh096/raju096/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rajesh096/raju096/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0778-reorganize-string](https://github.com/rajesh096/raju096/tree/master/0778-reorganize-string) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/rajesh096/raju096/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/rajesh096/raju096/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/rajesh096/raju096/tree/master/2310-minimum-operations-to-halve-array-sum) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/rajesh096/raju096/tree/master/0561-array-partition) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rajesh096/raju096/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/rajesh096/raju096/tree/master/0658-find-k-closest-elements) |
+| [0778-reorganize-string](https://github.com/rajesh096/raju096/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/rajesh096/raju096/tree/master/0807-custom-sort-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajesh096/raju096/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rajesh096/raju096/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/rajesh096/raju096/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/rajesh096/raju096/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/rajesh096/raju096/tree/master/0664-strange-printer) |
+| [0778-reorganize-string](https://github.com/rajesh096/raju096/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/rajesh096/raju096/tree/master/0782-jewels-and-stones) |
 | [0807-custom-sort-string](https://github.com/rajesh096/raju096/tree/master/0807-custom-sort-string) |
 | [0824-number-of-lines-to-write-string](https://github.com/rajesh096/raju096/tree/master/0824-number-of-lines-to-write-string) |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/rajesh096/raju096/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/rajesh096/raju096/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rajesh096/raju096/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0778-reorganize-string](https://github.com/rajesh096/raju096/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/rajesh096/raju096/tree/master/0782-jewels-and-stones) |
 | [0807-custom-sort-string](https://github.com/rajesh096/raju096/tree/master/0807-custom-sort-string) |
 | [0906-walking-robot-simulation](https://github.com/rajesh096/raju096/tree/master/0906-walking-robot-simulation) |
@@ -449,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/rajesh096/raju096/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/rajesh096/raju096/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/rajesh096/raju096/tree/master/0451-sort-characters-by-frequency) |
+| [0778-reorganize-string](https://github.com/rajesh096/raju096/tree/master/0778-reorganize-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/rajesh096/raju096/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1034-subarrays-with-k-different-integers](https://github.com/rajesh096/raju096/tree/master/1034-subarrays-with-k-different-integers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajesh096/raju096/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -520,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/rajesh096/raju096/tree/master/0451-sort-characters-by-frequency) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rajesh096/raju096/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/rajesh096/raju096/tree/master/0658-find-k-closest-elements) |
+| [0778-reorganize-string](https://github.com/rajesh096/raju096/tree/master/0778-reorganize-string) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/rajesh096/raju096/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/rajesh096/raju096/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2543-most-popular-video-creator](https://github.com/rajesh096/raju096/tree/master/2543-most-popular-video-creator) |
