@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rajesh096/raju096/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/rajesh096/raju096/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/rajesh096/raju096/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/rajesh096/raju096/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2378-sender-with-largest-word-count](https://github.com/rajesh096/raju096/tree/master/2378-sender-with-largest-word-count) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/rajesh096/raju096/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/rajesh096/raju096/tree/master/2502-sort-the-people) |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/rajesh096/raju096/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1945-finding-the-users-active-minutes](https://github.com/rajesh096/raju096/tree/master/1945-finding-the-users-active-minutes) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rajesh096/raju096/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/rajesh096/raju096/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2378-sender-with-largest-word-count](https://github.com/rajesh096/raju096/tree/master/2378-sender-with-largest-word-count) |
 | [2502-sort-the-people](https://github.com/rajesh096/raju096/tree/master/2502-sort-the-people) |
 | [2543-most-popular-video-creator](https://github.com/rajesh096/raju096/tree/master/2543-most-popular-video-creator) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rajesh096/raju096/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rajesh096/raju096/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rajesh096/raju096/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2338-minimum-consecutive-cards-to-pick-up](https://github.com/rajesh096/raju096/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/rajesh096/raju096/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Counting
 |  |
