@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/rajesh096/raju096/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rajesh096/raju096/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/rajesh096/raju096/tree/master/0643-maximum-average-subarray-i) |
+| [0646-maximum-length-of-pair-chain](https://github.com/rajesh096/raju096/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/rajesh096/raju096/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/rajesh096/raju096/tree/master/0713-subarray-product-less-than-k) |
 | [0729-my-calendar-i](https://github.com/rajesh096/raju096/tree/master/0729-my-calendar-i) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/rajesh096/raju096/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/rajesh096/raju096/tree/master/0605-can-place-flowers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rajesh096/raju096/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0646-maximum-length-of-pair-chain](https://github.com/rajesh096/raju096/tree/master/0646-maximum-length-of-pair-chain) |
 | [0670-maximum-swap](https://github.com/rajesh096/raju096/tree/master/0670-maximum-swap) |
 | [0778-reorganize-string](https://github.com/rajesh096/raju096/tree/master/0778-reorganize-string) |
 | [1304-longest-happy-string](https://github.com/rajesh096/raju096/tree/master/1304-longest-happy-string) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/rajesh096/raju096/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/rajesh096/raju096/tree/master/0561-array-partition) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/rajesh096/raju096/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0646-maximum-length-of-pair-chain](https://github.com/rajesh096/raju096/tree/master/0646-maximum-length-of-pair-chain) |
 | [0658-find-k-closest-elements](https://github.com/rajesh096/raju096/tree/master/0658-find-k-closest-elements) |
 | [0778-reorganize-string](https://github.com/rajesh096/raju096/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/rajesh096/raju096/tree/master/0807-custom-sort-string) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/rajesh096/raju096/tree/master/0357-count-numbers-with-unique-digits) |
 | [0397-integer-replacement](https://github.com/rajesh096/raju096/tree/master/0397-integer-replacement) |
 | [0486-predict-the-winner](https://github.com/rajesh096/raju096/tree/master/0486-predict-the-winner) |
+| [0646-maximum-length-of-pair-chain](https://github.com/rajesh096/raju096/tree/master/0646-maximum-length-of-pair-chain) |
 | [0664-strange-printer](https://github.com/rajesh096/raju096/tree/master/0664-strange-printer) |
 | [0909-stone-game](https://github.com/rajesh096/raju096/tree/master/0909-stone-game) |
 | [1013-fibonacci-number](https://github.com/rajesh096/raju096/tree/master/1013-fibonacci-number) |
