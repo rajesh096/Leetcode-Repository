@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/rajesh096/raju096/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/rajesh096/raju096/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rajesh096/raju096/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1803-average-waiting-time](https://github.com/rajesh096/raju096/tree/master/1803-average-waiting-time) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/rajesh096/raju096/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1945-finding-the-users-active-minutes](https://github.com/rajesh096/raju096/tree/master/1945-finding-the-users-active-minutes) |
 | [2035-count-sub-islands](https://github.com/rajesh096/raju096/tree/master/2035-count-sub-islands) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/rajesh096/raju096/tree/master/0059-spiral-matrix-ii) |
 | [0592-fraction-addition-and-subtraction](https://github.com/rajesh096/raju096/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/rajesh096/raju096/tree/master/0906-walking-robot-simulation) |
+| [1803-average-waiting-time](https://github.com/rajesh096/raju096/tree/master/1803-average-waiting-time) |
 | [2058-concatenation-of-array](https://github.com/rajesh096/raju096/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/rajesh096/raju096/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2155-find-missing-observations](https://github.com/rajesh096/raju096/tree/master/2155-find-missing-observations) |
