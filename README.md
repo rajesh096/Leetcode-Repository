@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/rajesh096/raju096/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/rajesh096/raju096/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/rajesh096/raju096/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3427-special-array-ii](https://github.com/rajesh096/raju096/tree/master/3427-special-array-ii) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/rajesh096/raju096/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Bit Manipulation
 |  |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajesh096/raju096/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/rajesh096/raju096/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/rajesh096/raju096/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3427-special-array-ii](https://github.com/rajesh096/raju096/tree/master/3427-special-array-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/rajesh096/raju096/tree/master/0731-my-calendar-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/rajesh096/raju096/tree/master/1435-xor-queries-of-a-subarray) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/rajesh096/raju096/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
+| [3427-special-array-ii](https://github.com/rajesh096/raju096/tree/master/3427-special-array-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
