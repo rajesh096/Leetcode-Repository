@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/rajesh096/raju096/tree/master/1002-maximum-width-ramp) |
 | [1034-subarrays-with-k-different-integers](https://github.com/rajesh096/raju096/tree/master/1034-subarrays-with-k-different-integers) |
 | [1072-next-greater-node-in-linked-list](https://github.com/rajesh096/raju096/tree/master/1072-next-greater-node-in-linked-list) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/rajesh096/raju096/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rajesh096/raju096/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/rajesh096/raju096/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/rajesh096/raju096/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0824-number-of-lines-to-write-string](https://github.com/rajesh096/raju096/tree/master/0824-number-of-lines-to-write-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/rajesh096/raju096/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1304-longest-happy-string](https://github.com/rajesh096/raju096/tree/master/1304-longest-happy-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/rajesh096/raju096/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rajesh096/raju096/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rajesh096/raju096/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rajesh096/raju096/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rajesh096/raju096/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/rajesh096/raju096/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/rajesh096/raju096/tree/master/0988-flip-equivalent-binary-trees) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/rajesh096/raju096/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1484-linked-list-in-binary-tree](https://github.com/rajesh096/raju096/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/rajesh096/raju096/tree/master/2035-count-sub-islands) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/rajesh096/raju096/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -542,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/rajesh096/raju096/tree/master/0139-word-break) |
 | [0386-lexicographical-numbers](https://github.com/rajesh096/raju096/tree/master/0386-lexicographical-numbers) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/rajesh096/raju096/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/rajesh096/raju096/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/rajesh096/raju096/tree/master/2755-extra-characters-in-a-string) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/rajesh096/raju096/tree/master/3193-maximum-strong-pair-xor-i) |
