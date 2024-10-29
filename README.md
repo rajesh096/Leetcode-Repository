@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/rajesh096/raju096/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/rajesh096/raju096/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/rajesh096/raju096/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/rajesh096/raju096/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/rajesh096/raju096/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/rajesh096/raju096/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/rajesh096/raju096/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/rajesh096/raju096/tree/master/0221-maximal-square) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajesh096/raju096/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2035-count-sub-islands](https://github.com/rajesh096/raju096/tree/master/2035-count-sub-islands) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/rajesh096/raju096/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rajesh096/raju096/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2586-longest-square-streak-in-an-array](https://github.com/rajesh096/raju096/tree/master/2586-longest-square-streak-in-an-array) |
 | [2755-extra-characters-in-a-string](https://github.com/rajesh096/raju096/tree/master/2755-extra-characters-in-a-string) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/rajesh096/raju096/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Memoization
 |  |
 | ------- |
