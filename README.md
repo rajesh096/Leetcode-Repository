@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/rajesh096/raju096/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/rajesh096/raju096/tree/master/3195-separate-black-and-white-balls) |
 | [3412-permutation-difference-between-two-strings](https://github.com/rajesh096/raju096/tree/master/3412-permutation-difference-between-two-strings) |
+| [3451-string-compression-iii](https://github.com/rajesh096/raju096/tree/master/3451-string-compression-iii) |
 ## Game Theory
 |  |
 | ------- |
