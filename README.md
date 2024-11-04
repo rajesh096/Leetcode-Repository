@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1303-minimum-moves-to-reach-target-score](https://github.com/rajesh096/raju096/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rajesh096/raju096/tree/master/1370-count-number-of-nice-subarrays) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rajesh096/raju096/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1585-the-kth-factor-of-n](https://github.com/rajesh096/raju096/tree/master/1585-the-kth-factor-of-n) |
 | [1635-number-of-good-pairs](https://github.com/rajesh096/raju096/tree/master/1635-number-of-good-pairs) |
 | [2155-find-missing-observations](https://github.com/rajesh096/raju096/tree/master/2155-find-missing-observations) |
 | [2288-count-operations-to-obtain-zero](https://github.com/rajesh096/raju096/tree/master/2288-count-operations-to-obtain-zero) |
@@ -691,4 +692,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rajesh096/raju096/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Number Theory
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/rajesh096/raju096/tree/master/1585-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
