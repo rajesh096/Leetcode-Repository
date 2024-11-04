@@ -9,7 +9,6 @@ public:
         }
         for(auto i=dic.begin();i!=dic.end();i++){
             long long a=i->second;
-            // cout<<i->first;
             res+=(a*(a-1))/2;
         }
         return res;
