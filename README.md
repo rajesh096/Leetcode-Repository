@@ -633,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rajesh096/raju096/tree/master/0023-merge-k-sorted-lists) |
+| [0237-delete-node-in-a-linked-list](https://github.com/rajesh096/raju096/tree/master/0237-delete-node-in-a-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/rajesh096/raju096/tree/master/0445-add-two-numbers-ii) |
 | [1072-next-greater-node-in-linked-list](https://github.com/rajesh096/raju096/tree/master/1072-next-greater-node-in-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/rajesh096/raju096/tree/master/1484-linked-list-in-binary-tree) |
