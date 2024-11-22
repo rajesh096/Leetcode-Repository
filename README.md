@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/rajesh096/raju096/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/rajesh096/raju096/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/rajesh096/raju096/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/rajesh096/raju096/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/rajesh096/raju096/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/rajesh096/raju096/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/rajesh096/raju096/tree/master/0079-word-search) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/rajesh096/raju096/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/rajesh096/raju096/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/rajesh096/raju096/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/rajesh096/raju096/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/rajesh096/raju096/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rajesh096/raju096/tree/master/0200-number-of-islands) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/rajesh096/raju096/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/rajesh096/raju096/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/rajesh096/raju096/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/rajesh096/raju096/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/rajesh096/raju096/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rajesh096/raju096/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/rajesh096/raju096/tree/master/0139-word-break) |
