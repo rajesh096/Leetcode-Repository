@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/rajesh096/raju096/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/rajesh096/raju096/tree/master/0731-my-calendar-ii) |
 | [0824-number-of-lines-to-write-string](https://github.com/rajesh096/raju096/tree/master/0824-number-of-lines-to-write-string) |
+| [0878-shifting-letters](https://github.com/rajesh096/raju096/tree/master/0878-shifting-letters) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rajesh096/raju096/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0906-walking-robot-simulation](https://github.com/rajesh096/raju096/tree/master/0906-walking-robot-simulation) |
 | [0909-stone-game](https://github.com/rajesh096/raju096/tree/master/0909-stone-game) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/rajesh096/raju096/tree/master/0782-jewels-and-stones) |
 | [0807-custom-sort-string](https://github.com/rajesh096/raju096/tree/master/0807-custom-sort-string) |
 | [0824-number-of-lines-to-write-string](https://github.com/rajesh096/raju096/tree/master/0824-number-of-lines-to-write-string) |
+| [0878-shifting-letters](https://github.com/rajesh096/raju096/tree/master/0878-shifting-letters) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/rajesh096/raju096/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1304-longest-happy-string](https://github.com/rajesh096/raju096/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/rajesh096/raju096/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/rajesh096/raju096/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/rajesh096/raju096/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/rajesh096/raju096/tree/master/0731-my-calendar-ii) |
+| [0878-shifting-letters](https://github.com/rajesh096/raju096/tree/master/0878-shifting-letters) |
 | [0966-binary-subarrays-with-sum](https://github.com/rajesh096/raju096/tree/master/0966-binary-subarrays-with-sum) |
 | [1184-car-pooling](https://github.com/rajesh096/raju096/tree/master/1184-car-pooling) |
 | [1435-xor-queries-of-a-subarray](https://github.com/rajesh096/raju096/tree/master/1435-xor-queries-of-a-subarray) |
