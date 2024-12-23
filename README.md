@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-stone-game](https://github.com/rajesh096/raju096/tree/master/0909-stone-game) |
 | [0940-fruit-into-baskets](https://github.com/rajesh096/raju096/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/rajesh096/raju096/tree/master/0948-sort-an-array) |
+| [0966-binary-subarrays-with-sum](https://github.com/rajesh096/raju096/tree/master/0966-binary-subarrays-with-sum) |
 | [1002-maximum-width-ramp](https://github.com/rajesh096/raju096/tree/master/1002-maximum-width-ramp) |
 | [1034-subarrays-with-k-different-integers](https://github.com/rajesh096/raju096/tree/master/1034-subarrays-with-k-different-integers) |
 | [1072-next-greater-node-in-linked-list](https://github.com/rajesh096/raju096/tree/master/1072-next-greater-node-in-linked-list) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/rajesh096/raju096/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/rajesh096/raju096/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0940-fruit-into-baskets](https://github.com/rajesh096/raju096/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/rajesh096/raju096/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/rajesh096/raju096/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rajesh096/raju096/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/rajesh096/raju096/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/rajesh096/raju096/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/rajesh096/raju096/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/rajesh096/raju096/tree/master/0940-fruit-into-baskets) |
+| [0966-binary-subarrays-with-sum](https://github.com/rajesh096/raju096/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/rajesh096/raju096/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rajesh096/raju096/tree/master/1370-count-number-of-nice-subarrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rajesh096/raju096/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -595,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/rajesh096/raju096/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/rajesh096/raju096/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/rajesh096/raju096/tree/master/0731-my-calendar-ii) |
+| [0966-binary-subarrays-with-sum](https://github.com/rajesh096/raju096/tree/master/0966-binary-subarrays-with-sum) |
 | [1184-car-pooling](https://github.com/rajesh096/raju096/tree/master/1184-car-pooling) |
 | [1435-xor-queries-of-a-subarray](https://github.com/rajesh096/raju096/tree/master/1435-xor-queries-of-a-subarray) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/rajesh096/raju096/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
