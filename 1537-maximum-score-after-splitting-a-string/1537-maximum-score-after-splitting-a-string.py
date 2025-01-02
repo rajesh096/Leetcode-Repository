@@ -1,10 +1,9 @@
 class Solution:
     def maxScore(self, s: str) -> int:
-        tot_Z = 0
         tot_O = 0
         for i in s:
             if(i=="0"):
-                tot_Z+=1
+                continue
             else:
                 tot_O+=1
         lef_ss = 1 if s[0]=="0" else 0
