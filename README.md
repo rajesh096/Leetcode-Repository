@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1945-finding-the-users-active-minutes](https://github.com/rajesh096/raju096/tree/master/1945-finding-the-users-active-minutes) |
 | [2035-count-sub-islands](https://github.com/rajesh096/raju096/tree/master/2035-count-sub-islands) |
 | [2058-concatenation-of-array](https://github.com/rajesh096/raju096/tree/master/2058-concatenation-of-array) |
+| [2077-largest-number-after-mutating-substring](https://github.com/rajesh096/raju096/tree/master/2077-largest-number-after-mutating-substring) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/rajesh096/raju096/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/rajesh096/raju096/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/rajesh096/raju096/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/rajesh096/raju096/tree/master/0778-reorganize-string) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/rajesh096/raju096/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1304-longest-happy-string](https://github.com/rajesh096/raju096/tree/master/1304-longest-happy-string) |
+| [2077-largest-number-after-mutating-substring](https://github.com/rajesh096/raju096/tree/master/2077-largest-number-after-mutating-substring) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/rajesh096/raju096/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/rajesh096/raju096/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2245-destroying-asteroids](https://github.com/rajesh096/raju096/tree/master/2245-destroying-asteroids) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/rajesh096/raju096/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rajesh096/raju096/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/rajesh096/raju096/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2077-largest-number-after-mutating-substring](https://github.com/rajesh096/raju096/tree/master/2077-largest-number-after-mutating-substring) |
 | [2378-sender-with-largest-word-count](https://github.com/rajesh096/raju096/tree/master/2378-sender-with-largest-word-count) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/rajesh096/raju096/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/rajesh096/raju096/tree/master/2494-sum-of-prefix-scores-of-strings) |
