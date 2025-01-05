@@ -1,21 +1,21 @@
 class Solution:
     def shiftingLetters(self, s: str, shifts: List[List[int]]) -> str:
-        pres = [0]*len(s)
+        n = len(s)
+        pres = [0]*n
         for i in shifts:
             if(i[2]==0):
                 pres[i[0]]-=1
-                if(i[1] != len(s)-1):
+                if(i[1] != n-1):
                     pres[i[1]+1]+=1 
             else:
                 pres[i[0]]+=1
-                if(i[1] != len(s)-1):
+                if(i[1] != n-1):
                     pres[i[1]+1]-=1
-        for i in range(1,len(s)):
+        for i in range(1,n):
             pres[i]+=pres[i-1]
         res = ""
-        for i in range(len(s)):
+        for i in range(n):
             val = (ord(s[i])-97)+pres[i]
-            print(val)
             if(val>=26):
                 val%=26
                 
