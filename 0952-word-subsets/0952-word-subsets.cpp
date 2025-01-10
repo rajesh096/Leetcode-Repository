@@ -1,10 +1,10 @@
 class Solution {
 public:
     vector<string> wordSubsets(vector<string>& words1, vector<string>& words2) {
-        vector<int> freq(26, 0);
+        int freq[26] = {0};
         vector<string> result;
         for(string word: words2){
-            vector<int> temp(26,0);
+            int temp[26] = {0};
             for(int i=0;i<word.size();i++){
                 temp[word[i]-'a']++;
             }
@@ -14,7 +14,7 @@ public:
         }
         for (string word: words1){
             bool universal = true;
-            vector<int> temp(26, 0);
+            int temp[26] = {0};
             for(int i=0;i<word.size();i++){
                 temp[word[i]-'a']++;
             }
