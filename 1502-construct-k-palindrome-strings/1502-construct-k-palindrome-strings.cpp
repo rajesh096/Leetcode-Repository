@@ -2,11 +2,11 @@ class Solution {
 public:
     bool canConstruct(string s, int k) {
         if(s.size()<k) return false;
-        map<char,int> mp;
-        for(char i : s) mp[i]++;
+        int val[26] = {};
+        for(char i : s)val[i-'a']++;
         int odd = 0;
-        for(const auto& pair : mp){
-            if(pair.second%2==1) odd++;
+        for(int pair :val){
+            if(pair%2==1) odd++;
         }
         if(odd>k) return false;
         return true;
