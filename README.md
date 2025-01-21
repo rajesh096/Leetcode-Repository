@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/rajesh096/raju096/tree/master/2155-find-missing-observations) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rajesh096/raju096/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/rajesh096/raju096/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/rajesh096/raju096/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2245-destroying-asteroids](https://github.com/rajesh096/raju096/tree/master/2245-destroying-asteroids) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/rajesh096/raju096/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/rajesh096/raju096/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1879-maximum-score-from-removing-stones](https://github.com/rajesh096/raju096/tree/master/1879-maximum-score-from-removing-stones) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/rajesh096/raju096/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2155-find-missing-observations](https://github.com/rajesh096/raju096/tree/master/2155-find-missing-observations) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/rajesh096/raju096/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/rajesh096/raju096/tree/master/2288-count-operations-to-obtain-zero) |
 ## Recursion
 |  |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/rajesh096/raju096/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajesh096/raju096/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2035-count-sub-islands](https://github.com/rajesh096/raju096/tree/master/2035-count-sub-islands) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/rajesh096/raju096/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/rajesh096/raju096/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Simulation
 |  |
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rajesh096/raju096/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/rajesh096/raju096/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2077-largest-number-after-mutating-substring](https://github.com/rajesh096/raju096/tree/master/2077-largest-number-after-mutating-substring) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/rajesh096/raju096/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/rajesh096/raju096/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2378-sender-with-largest-word-count](https://github.com/rajesh096/raju096/tree/master/2378-sender-with-largest-word-count) |
 | [2465-shifting-letters-ii](https://github.com/rajesh096/raju096/tree/master/2465-shifting-letters-ii) |
