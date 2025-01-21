@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1303-minimum-moves-to-reach-target-score](https://github.com/rajesh096/raju096/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1304-longest-happy-string](https://github.com/rajesh096/raju096/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/rajesh096/raju096/tree/master/1502-construct-k-palindrome-strings) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rajesh096/raju096/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/rajesh096/raju096/tree/master/1782-smallest-string-with-a-given-numeric-value) |
 | [1879-maximum-score-from-removing-stones](https://github.com/rajesh096/raju096/tree/master/1879-maximum-score-from-removing-stones) |
 | [2077-largest-number-after-mutating-substring](https://github.com/rajesh096/raju096/tree/master/2077-largest-number-after-mutating-substring) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajesh096/raju096/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rajesh096/raju096/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/rajesh096/raju096/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rajesh096/raju096/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/rajesh096/raju096/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2245-destroying-asteroids](https://github.com/rajesh096/raju096/tree/master/2245-destroying-asteroids) |
 | [2502-sort-the-people](https://github.com/rajesh096/raju096/tree/master/2502-sort-the-people) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/rajesh096/raju096/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/rajesh096/raju096/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rajesh096/raju096/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rajesh096/raju096/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/rajesh096/raju096/tree/master/1782-smallest-string-with-a-given-numeric-value) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rajesh096/raju096/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rajesh096/raju096/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -491,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rajesh096/raju096/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/rajesh096/raju096/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/rajesh096/raju096/tree/master/1635-number-of-good-pairs) |
+| [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rajesh096/raju096/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/rajesh096/raju096/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1945-finding-the-users-active-minutes](https://github.com/rajesh096/raju096/tree/master/1945-finding-the-users-active-minutes) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rajesh096/raju096/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
