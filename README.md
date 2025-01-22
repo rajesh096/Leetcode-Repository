@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/rajesh096/raju096/tree/master/0731-my-calendar-ii) |
 | [0814-smallest-rotation-with-highest-score](https://github.com/rajesh096/raju096/tree/master/0814-smallest-rotation-with-highest-score) |
 | [0824-number-of-lines-to-write-string](https://github.com/rajesh096/raju096/tree/master/0824-number-of-lines-to-write-string) |
+| [0876-hand-of-straights](https://github.com/rajesh096/raju096/tree/master/0876-hand-of-straights) |
 | [0878-shifting-letters](https://github.com/rajesh096/raju096/tree/master/0878-shifting-letters) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rajesh096/raju096/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0906-walking-robot-simulation](https://github.com/rajesh096/raju096/tree/master/0906-walking-robot-simulation) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/rajesh096/raju096/tree/master/0646-maximum-length-of-pair-chain) |
 | [0670-maximum-swap](https://github.com/rajesh096/raju096/tree/master/0670-maximum-swap) |
 | [0778-reorganize-string](https://github.com/rajesh096/raju096/tree/master/0778-reorganize-string) |
+| [0876-hand-of-straights](https://github.com/rajesh096/raju096/tree/master/0876-hand-of-straights) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/rajesh096/raju096/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1304-longest-happy-string](https://github.com/rajesh096/raju096/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/rajesh096/raju096/tree/master/1502-construct-k-palindrome-strings) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/rajesh096/raju096/tree/master/0658-find-k-closest-elements) |
 | [0778-reorganize-string](https://github.com/rajesh096/raju096/tree/master/0778-reorganize-string) |
 | [0807-custom-sort-string](https://github.com/rajesh096/raju096/tree/master/0807-custom-sort-string) |
+| [0876-hand-of-straights](https://github.com/rajesh096/raju096/tree/master/0876-hand-of-straights) |
 | [0948-sort-an-array](https://github.com/rajesh096/raju096/tree/master/0948-sort-an-array) |
 | [1184-car-pooling](https://github.com/rajesh096/raju096/tree/master/1184-car-pooling) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajesh096/raju096/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -486,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/rajesh096/raju096/tree/master/0778-reorganize-string) |
 | [0782-jewels-and-stones](https://github.com/rajesh096/raju096/tree/master/0782-jewels-and-stones) |
 | [0807-custom-sort-string](https://github.com/rajesh096/raju096/tree/master/0807-custom-sort-string) |
+| [0876-hand-of-straights](https://github.com/rajesh096/raju096/tree/master/0876-hand-of-straights) |
 | [0906-walking-robot-simulation](https://github.com/rajesh096/raju096/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/rajesh096/raju096/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0940-fruit-into-baskets](https://github.com/rajesh096/raju096/tree/master/0940-fruit-into-baskets) |
