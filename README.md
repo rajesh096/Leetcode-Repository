@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rajesh096/raju096/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/rajesh096/raju096/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1945-finding-the-users-active-minutes](https://github.com/rajesh096/raju096/tree/master/1945-finding-the-users-active-minutes) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/rajesh096/raju096/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2035-count-sub-islands](https://github.com/rajesh096/raju096/tree/master/2035-count-sub-islands) |
 | [2058-concatenation-of-array](https://github.com/rajesh096/raju096/tree/master/2058-concatenation-of-array) |
 | [2077-largest-number-after-mutating-substring](https://github.com/rajesh096/raju096/tree/master/2077-largest-number-after-mutating-substring) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rajesh096/raju096/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1782-smallest-string-with-a-given-numeric-value](https://github.com/rajesh096/raju096/tree/master/1782-smallest-string-with-a-given-numeric-value) |
 | [1879-maximum-score-from-removing-stones](https://github.com/rajesh096/raju096/tree/master/1879-maximum-score-from-removing-stones) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/rajesh096/raju096/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2077-largest-number-after-mutating-substring](https://github.com/rajesh096/raju096/tree/master/2077-largest-number-after-mutating-substring) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/rajesh096/raju096/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/rajesh096/raju096/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
