@@ -638,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/rajesh096/raju096/tree/master/0386-lexicographical-numbers) |
 | [0513-find-bottom-left-tree-value](https://github.com/rajesh096/raju096/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rajesh096/raju096/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0684-redundant-connection](https://github.com/rajesh096/raju096/tree/master/0684-redundant-connection) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/rajesh096/raju096/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/rajesh096/raju096/tree/master/0988-flip-equivalent-binary-trees) |
 | [1300-critical-connections-in-a-network](https://github.com/rajesh096/raju096/tree/master/1300-critical-connections-in-a-network) |
@@ -702,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/rajesh096/raju096/tree/master/0200-number-of-islands) |
 | [0513-find-bottom-left-tree-value](https://github.com/rajesh096/raju096/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rajesh096/raju096/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0684-redundant-connection](https://github.com/rajesh096/raju096/tree/master/0684-redundant-connection) |
 | [1036-rotting-oranges](https://github.com/rajesh096/raju096/tree/master/1036-rotting-oranges) |
 | [1484-linked-list-in-binary-tree](https://github.com/rajesh096/raju096/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/rajesh096/raju096/tree/master/2035-count-sub-islands) |
@@ -711,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/rajesh096/raju096/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rajesh096/raju096/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/rajesh096/raju096/tree/master/0684-redundant-connection) |
 | [2035-count-sub-islands](https://github.com/rajesh096/raju096/tree/master/2035-count-sub-islands) |
 ## Monotonic Stack
 |  |
@@ -765,6 +768,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/rajesh096/raju096/tree/master/0684-redundant-connection) |
 | [1300-critical-connections-in-a-network](https://github.com/rajesh096/raju096/tree/master/1300-critical-connections-in-a-network) |
 | [1916-find-center-of-star-graph](https://github.com/rajesh096/raju096/tree/master/1916-find-center-of-star-graph) |
 ## Divide and Conquer
