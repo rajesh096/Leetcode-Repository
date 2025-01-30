@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/rajesh096/raju096/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3427-special-array-ii](https://github.com/rajesh096/raju096/tree/master/3427-special-array-ii) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/rajesh096/raju096/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/rajesh096/raju096/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2145-grid-game](https://github.com/rajesh096/raju096/tree/master/2145-grid-game) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/rajesh096/raju096/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/rajesh096/raju096/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/rajesh096/raju096/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -700,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2543-most-popular-video-creator](https://github.com/rajesh096/raju096/tree/master/2543-most-popular-video-creator) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/rajesh096/raju096/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/rajesh096/raju096/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/rajesh096/raju096/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -715,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/rajesh096/raju096/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/rajesh096/raju096/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2793-count-the-number-of-complete-components](https://github.com/rajesh096/raju096/tree/master/2793-count-the-number-of-complete-components) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/rajesh096/raju096/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Union Find
 |  |
 | ------- |
@@ -781,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1300-critical-connections-in-a-network](https://github.com/rajesh096/raju096/tree/master/1300-critical-connections-in-a-network) |
 | [1916-find-center-of-star-graph](https://github.com/rajesh096/raju096/tree/master/1916-find-center-of-star-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/rajesh096/raju096/tree/master/2793-count-the-number-of-complete-components) |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/rajesh096/raju096/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -836,4 +841,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/rajesh096/raju096/tree/master/0207-course-schedule) |
+## Shortest Path
+|  |
+| ------- |
+| [3558-find-a-safe-walk-through-a-grid](https://github.com/rajesh096/raju096/tree/master/3558-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
