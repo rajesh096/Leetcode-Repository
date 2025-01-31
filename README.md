@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/rajesh096/raju096/tree/master/0731-my-calendar-ii) |
 | [0814-smallest-rotation-with-highest-score](https://github.com/rajesh096/raju096/tree/master/0814-smallest-rotation-with-highest-score) |
 | [0824-number-of-lines-to-write-string](https://github.com/rajesh096/raju096/tree/master/0824-number-of-lines-to-write-string) |
+| [0854-making-a-large-island](https://github.com/rajesh096/raju096/tree/master/0854-making-a-large-island) |
 | [0876-hand-of-straights](https://github.com/rajesh096/raju096/tree/master/0876-hand-of-straights) |
 | [0878-shifting-letters](https://github.com/rajesh096/raju096/tree/master/0878-shifting-letters) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/rajesh096/raju096/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/rajesh096/raju096/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/rajesh096/raju096/tree/master/0221-maximal-square) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/rajesh096/raju096/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0854-making-a-large-island](https://github.com/rajesh096/raju096/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/rajesh096/raju096/tree/master/1036-rotting-oranges) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajesh096/raju096/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2035-count-sub-islands](https://github.com/rajesh096/raju096/tree/master/2035-count-sub-islands) |
@@ -646,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/rajesh096/raju096/tree/master/0684-redundant-connection) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/rajesh096/raju096/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0820-find-eventual-safe-states](https://github.com/rajesh096/raju096/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/rajesh096/raju096/tree/master/0854-making-a-large-island) |
 | [0988-flip-equivalent-binary-trees](https://github.com/rajesh096/raju096/tree/master/0988-flip-equivalent-binary-trees) |
 | [1300-critical-connections-in-a-network](https://github.com/rajesh096/raju096/tree/master/1300-critical-connections-in-a-network) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/rajesh096/raju096/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -715,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/rajesh096/raju096/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/rajesh096/raju096/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/rajesh096/raju096/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/rajesh096/raju096/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/rajesh096/raju096/tree/master/1036-rotting-oranges) |
 | [1484-linked-list-in-binary-tree](https://github.com/rajesh096/raju096/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/rajesh096/raju096/tree/master/2035-count-sub-islands) |
@@ -728,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/rajesh096/raju096/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rajesh096/raju096/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/rajesh096/raju096/tree/master/0684-redundant-connection) |
+| [0854-making-a-large-island](https://github.com/rajesh096/raju096/tree/master/0854-making-a-large-island) |
 | [2035-count-sub-islands](https://github.com/rajesh096/raju096/tree/master/2035-count-sub-islands) |
 | [2793-count-the-number-of-complete-components](https://github.com/rajesh096/raju096/tree/master/2793-count-the-number-of-complete-components) |
 ## Monotonic Stack
