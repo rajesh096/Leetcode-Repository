@@ -409,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rajesh096/raju096/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/rajesh096/raju096/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/rajesh096/raju096/tree/master/0079-word-search) |
+| [0127-word-ladder](https://github.com/rajesh096/raju096/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/rajesh096/raju096/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/rajesh096/raju096/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/rajesh096/raju096/tree/master/0179-largest-number) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/rajesh096/raju096/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/rajesh096/raju096/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/rajesh096/raju096/tree/master/0049-group-anagrams) |
+| [0127-word-ladder](https://github.com/rajesh096/raju096/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/rajesh096/raju096/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/rajesh096/raju096/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/rajesh096/raju096/tree/master/0219-contains-duplicate-ii) |
@@ -712,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/rajesh096/raju096/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/rajesh096/raju096/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/rajesh096/raju096/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/rajesh096/raju096/tree/master/0207-course-schedule) |
