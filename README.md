@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/rajesh096/raju096/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/rajesh096/raju096/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/rajesh096/raju096/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/rajesh096/raju096/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2378-sender-with-largest-word-count](https://github.com/rajesh096/raju096/tree/master/2378-sender-with-largest-word-count) |
 | [2465-shifting-letters-ii](https://github.com/rajesh096/raju096/tree/master/2465-shifting-letters-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/rajesh096/raju096/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/rajesh096/raju096/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2145-grid-game](https://github.com/rajesh096/raju096/tree/master/2145-grid-game) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/rajesh096/raju096/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/rajesh096/raju096/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/rajesh096/raju096/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/rajesh096/raju096/tree/master/3558-find-a-safe-walk-through-a-grid) |
 ## Simulation
@@ -710,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1879-maximum-score-from-removing-stones](https://github.com/rajesh096/raju096/tree/master/1879-maximum-score-from-removing-stones) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/rajesh096/raju096/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/rajesh096/raju096/tree/master/2310-minimum-operations-to-halve-array-sum) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/rajesh096/raju096/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2543-most-popular-video-creator](https://github.com/rajesh096/raju096/tree/master/2543-most-popular-video-creator) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/rajesh096/raju096/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/rajesh096/raju096/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -731,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-linked-list-in-binary-tree](https://github.com/rajesh096/raju096/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/rajesh096/raju096/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/rajesh096/raju096/tree/master/2038-nearest-exit-from-entrance-in-maze) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/rajesh096/raju096/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/rajesh096/raju096/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2793-count-the-number-of-complete-components](https://github.com/rajesh096/raju096/tree/master/2793-count-the-number-of-complete-components) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/rajesh096/raju096/tree/master/3558-find-a-safe-walk-through-a-grid) |
@@ -801,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/rajesh096/raju096/tree/master/0820-find-eventual-safe-states) |
 | [1300-critical-connections-in-a-network](https://github.com/rajesh096/raju096/tree/master/1300-critical-connections-in-a-network) |
 | [1916-find-center-of-star-graph](https://github.com/rajesh096/raju096/tree/master/1916-find-center-of-star-graph) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/rajesh096/raju096/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2439-longest-cycle-in-a-graph](https://github.com/rajesh096/raju096/tree/master/2439-longest-cycle-in-a-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/rajesh096/raju096/tree/master/2793-count-the-number-of-complete-components) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/rajesh096/raju096/tree/master/3558-find-a-safe-walk-through-a-grid) |
@@ -864,5 +869,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/rajesh096/raju096/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/rajesh096/raju096/tree/master/3558-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
