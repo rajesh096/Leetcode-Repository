@@ -739,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-count-sub-islands](https://github.com/rajesh096/raju096/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/rajesh096/raju096/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/rajesh096/raju096/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2671-shortest-cycle-in-a-graph](https://github.com/rajesh096/raju096/tree/master/2671-shortest-cycle-in-a-graph) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/rajesh096/raju096/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2793-count-the-number-of-complete-components](https://github.com/rajesh096/raju096/tree/master/2793-count-the-number-of-complete-components) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/rajesh096/raju096/tree/master/3558-find-a-safe-walk-through-a-grid) |
@@ -811,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1916-find-center-of-star-graph](https://github.com/rajesh096/raju096/tree/master/1916-find-center-of-star-graph) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/rajesh096/raju096/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2439-longest-cycle-in-a-graph](https://github.com/rajesh096/raju096/tree/master/2439-longest-cycle-in-a-graph) |
+| [2671-shortest-cycle-in-a-graph](https://github.com/rajesh096/raju096/tree/master/2671-shortest-cycle-in-a-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/rajesh096/raju096/tree/master/2793-count-the-number-of-complete-components) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/rajesh096/raju096/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/rajesh096/raju096/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
