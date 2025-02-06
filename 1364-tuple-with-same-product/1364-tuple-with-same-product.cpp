@@ -1,24 +1,16 @@
 class Solution {
 public:
     int tupleSameProduct(vector<int>& nums) {
-        unordered_map<int, int> mp;
-        for(int i=0;i<nums.size();i++){
-            for(int j=i+1;j<nums.size();j++){
-                int val = nums[i]*nums[j];
-                if(mp.find(val) != mp.end()){
-                    mp[val]+=1;
-                }
-                else{
-                    mp[val] = 1;
-                }
-            }
+        const int n=nums.size();
+        unordered_map<int, int> freq;
+        freq.reserve(n*(n-1)/2);
+        for(int i=0; i<n-1; i++)
+            for(int j=i+1; j<n; j++)
+                freq[nums[i]*nums[j]]++;
+        int ans=0;
+        for(auto& [x, f]: freq){
+            if (f>1) ans+=f*(f-1)*4;
         }
-        int res = 0;
-        unordered_map<int, int>:: iterator p;
-        for(p=mp.begin();p!=mp.end();p++){
-            int val = p->second;
-            if(val > 1) res+=(val*(val-1)*4);
-        }
-        return res;
+        return ans;
     }
 };
