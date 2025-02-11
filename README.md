@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1072-next-greater-node-in-linked-list](https://github.com/rajesh096/raju096/tree/master/1072-next-greater-node-in-linked-list) |
 | [1184-car-pooling](https://github.com/rajesh096/raju096/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/rajesh096/raju096/tree/master/1206-corporate-flight-bookings) |
+| [1308-smallest-string-with-swaps](https://github.com/rajesh096/raju096/tree/master/1308-smallest-string-with-swaps) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/rajesh096/raju096/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/rajesh096/raju096/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rajesh096/raju096/tree/master/1370-count-number-of-nice-subarrays) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-hand-of-straights](https://github.com/rajesh096/raju096/tree/master/0876-hand-of-straights) |
 | [0948-sort-an-array](https://github.com/rajesh096/raju096/tree/master/0948-sort-an-array) |
 | [1184-car-pooling](https://github.com/rajesh096/raju096/tree/master/1184-car-pooling) |
+| [1308-smallest-string-with-swaps](https://github.com/rajesh096/raju096/tree/master/1308-smallest-string-with-swaps) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajesh096/raju096/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rajesh096/raju096/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/rajesh096/raju096/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/rajesh096/raju096/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/rajesh096/raju096/tree/master/0952-word-subsets) |
 | [1304-longest-happy-string](https://github.com/rajesh096/raju096/tree/master/1304-longest-happy-string) |
+| [1308-smallest-string-with-swaps](https://github.com/rajesh096/raju096/tree/master/1308-smallest-string-with-swaps) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/rajesh096/raju096/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1502-construct-k-palindrome-strings](https://github.com/rajesh096/raju096/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/rajesh096/raju096/tree/master/1524-string-matching-in-an-array) |
@@ -521,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/rajesh096/raju096/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/rajesh096/raju096/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/rajesh096/raju096/tree/master/1034-subarrays-with-k-different-integers) |
+| [1308-smallest-string-with-swaps](https://github.com/rajesh096/raju096/tree/master/1308-smallest-string-with-swaps) |
 | [1364-tuple-with-same-product](https://github.com/rajesh096/raju096/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rajesh096/raju096/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/rajesh096/raju096/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -672,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/rajesh096/raju096/tree/master/0854-making-a-large-island) |
 | [0988-flip-equivalent-binary-trees](https://github.com/rajesh096/raju096/tree/master/0988-flip-equivalent-binary-trees) |
 | [1300-critical-connections-in-a-network](https://github.com/rajesh096/raju096/tree/master/1300-critical-connections-in-a-network) |
+| [1308-smallest-string-with-swaps](https://github.com/rajesh096/raju096/tree/master/1308-smallest-string-with-swaps) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/rajesh096/raju096/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1484-linked-list-in-binary-tree](https://github.com/rajesh096/raju096/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/rajesh096/raju096/tree/master/2035-count-sub-islands) |
@@ -745,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/rajesh096/raju096/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/rajesh096/raju096/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/rajesh096/raju096/tree/master/1036-rotting-oranges) |
+| [1308-smallest-string-with-swaps](https://github.com/rajesh096/raju096/tree/master/1308-smallest-string-with-swaps) |
 | [1484-linked-list-in-binary-tree](https://github.com/rajesh096/raju096/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/rajesh096/raju096/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/rajesh096/raju096/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -760,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/rajesh096/raju096/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/rajesh096/raju096/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/rajesh096/raju096/tree/master/0854-making-a-large-island) |
+| [1308-smallest-string-with-swaps](https://github.com/rajesh096/raju096/tree/master/1308-smallest-string-with-swaps) |
 | [2035-count-sub-islands](https://github.com/rajesh096/raju096/tree/master/2035-count-sub-islands) |
 | [2793-count-the-number-of-complete-components](https://github.com/rajesh096/raju096/tree/master/2793-count-the-number-of-complete-components) |
 ## Monotonic Stack
