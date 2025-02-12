@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2378-sender-with-largest-word-count](https://github.com/rajesh096/raju096/tree/master/2378-sender-with-largest-word-count) |
 | [2448-count-number-of-bad-pairs](https://github.com/rajesh096/raju096/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/rajesh096/raju096/tree/master/2465-shifting-letters-ii) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rajesh096/raju096/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/rajesh096/raju096/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/rajesh096/raju096/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/rajesh096/raju096/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/rajesh096/raju096/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/rajesh096/raju096/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2245-destroying-asteroids](https://github.com/rajesh096/raju096/tree/master/2245-destroying-asteroids) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rajesh096/raju096/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/rajesh096/raju096/tree/master/2502-sort-the-people) |
 | [2543-most-popular-video-creator](https://github.com/rajesh096/raju096/tree/master/2543-most-popular-video-creator) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/rajesh096/raju096/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/rajesh096/raju096/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2378-sender-with-largest-word-count](https://github.com/rajesh096/raju096/tree/master/2378-sender-with-largest-word-count) |
 | [2448-count-number-of-bad-pairs](https://github.com/rajesh096/raju096/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rajesh096/raju096/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/rajesh096/raju096/tree/master/2502-sort-the-people) |
 | [2543-most-popular-video-creator](https://github.com/rajesh096/raju096/tree/master/2543-most-popular-video-creator) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/rajesh096/raju096/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -731,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-remove-stones-to-minimize-the-total](https://github.com/rajesh096/raju096/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2310-minimum-operations-to-halve-array-sum](https://github.com/rajesh096/raju096/tree/master/2310-minimum-operations-to-halve-array-sum) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/rajesh096/raju096/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/rajesh096/raju096/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2543-most-popular-video-creator](https://github.com/rajesh096/raju096/tree/master/2543-most-popular-video-creator) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/rajesh096/raju096/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/rajesh096/raju096/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
