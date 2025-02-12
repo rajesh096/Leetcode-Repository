@@ -1,25 +1,24 @@
 class Solution {
 public:
-    int sumDigits(int numb) {
-        int sum=0;
-        while(numb) {
-            sum+=numb%10;
-            numb/=10;
-        }
-        return sum;
-    }
     int maximumSum(vector<int>& nums) {
-        vector<int> sameDigit(82, -1);
-        int sum, maxSum=-1;
-        for(int i=0; i<nums.size(); i++) {
-            sum=sumDigits(nums[i]);
-            if(sameDigit[sum]!=-1) {
-                maxSum=max(maxSum, sameDigit[sum]+nums[i]);
-                sameDigit[sum]=max(sameDigit[sum], nums[i]);
-            } else {
-                sameDigit[sum]=nums[i];
+        unordered_map<int, vector<int>> mp;
+        for(int it : nums){
+            int num = it;
+            int sm = 0;
+            while(num>0){
+                sm+=num%10;
+                num/=10;
+            }
+            mp[sm].push_back(it);
+        }
+        int res = -1;
+        for(auto v : mp){
+            int n = v.second.size();
+            if(n>1){
+                sort(v.second.begin(),v.second.end());
+                res = max(res, v.second[n-1]+v.second[n-2]);
             }
         }
-        return maxSum;
+        return res;
     }
 };
