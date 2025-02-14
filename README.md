@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/rajesh096/raju096/tree/master/1435-xor-queries-of-a-subarray) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rajesh096/raju096/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajesh096/raju096/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1477-product-of-the-last-k-numbers](https://github.com/rajesh096/raju096/tree/master/1477-product-of-the-last-k-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rajesh096/raju096/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1524-string-matching-in-an-array](https://github.com/rajesh096/raju096/tree/master/1524-string-matching-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/rajesh096/raju096/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1303-minimum-moves-to-reach-target-score](https://github.com/rajesh096/raju096/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1370-count-number-of-nice-subarrays](https://github.com/rajesh096/raju096/tree/master/1370-count-number-of-nice-subarrays) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rajesh096/raju096/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1477-product-of-the-last-k-numbers](https://github.com/rajesh096/raju096/tree/master/1477-product-of-the-last-k-numbers) |
 | [1585-the-kth-factor-of-n](https://github.com/rajesh096/raju096/tree/master/1585-the-kth-factor-of-n) |
 | [1635-number-of-good-pairs](https://github.com/rajesh096/raju096/tree/master/1635-number-of-good-pairs) |
 | [1879-maximum-score-from-removing-stones](https://github.com/rajesh096/raju096/tree/master/1879-maximum-score-from-removing-stones) |
@@ -630,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/rajesh096/raju096/tree/master/0535-encode-and-decode-tinyurl) |
 | [0729-my-calendar-i](https://github.com/rajesh096/raju096/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/rajesh096/raju096/tree/master/0731-my-calendar-ii) |
+| [1477-product-of-the-last-k-numbers](https://github.com/rajesh096/raju096/tree/master/1477-product-of-the-last-k-numbers) |
 ## Hash Function
 |  |
 | ------- |
@@ -712,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-car-pooling](https://github.com/rajesh096/raju096/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/rajesh096/raju096/tree/master/1206-corporate-flight-bookings) |
 | [1435-xor-queries-of-a-subarray](https://github.com/rajesh096/raju096/tree/master/1435-xor-queries-of-a-subarray) |
+| [1477-product-of-the-last-k-numbers](https://github.com/rajesh096/raju096/tree/master/1477-product-of-the-last-k-numbers) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/rajesh096/raju096/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/rajesh096/raju096/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/rajesh096/raju096/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -904,4 +908,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/rajesh096/raju096/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/rajesh096/raju096/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/rajesh096/raju096/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/rajesh096/raju096/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
