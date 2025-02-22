@@ -529,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/rajesh096/raju096/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/rajesh096/raju096/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/rajesh096/raju096/tree/master/0966-binary-subarrays-with-sum) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/rajesh096/raju096/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1034-subarrays-with-k-different-integers](https://github.com/rajesh096/raju096/tree/master/1034-subarrays-with-k-different-integers) |
 | [1308-smallest-string-with-swaps](https://github.com/rajesh096/raju096/tree/master/1308-smallest-string-with-swaps) |
 | [1364-tuple-with-same-product](https://github.com/rajesh096/raju096/tree/master/1364-tuple-with-same-product) |
@@ -683,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/rajesh096/raju096/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0820-find-eventual-safe-states](https://github.com/rajesh096/raju096/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/rajesh096/raju096/tree/master/0854-making-a-large-island) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/rajesh096/raju096/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/rajesh096/raju096/tree/master/0988-flip-equivalent-binary-trees) |
 | [1300-critical-connections-in-a-network](https://github.com/rajesh096/raju096/tree/master/1300-critical-connections-in-a-network) |
 | [1308-smallest-string-with-swaps](https://github.com/rajesh096/raju096/tree/master/1308-smallest-string-with-swaps) |
@@ -778,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/rajesh096/raju096/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/rajesh096/raju096/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/rajesh096/raju096/tree/master/0854-making-a-large-island) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/rajesh096/raju096/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1308-smallest-string-with-swaps](https://github.com/rajesh096/raju096/tree/master/1308-smallest-string-with-swaps) |
 | [2035-count-sub-islands](https://github.com/rajesh096/raju096/tree/master/2035-count-sub-islands) |
 | [2793-count-the-number-of-complete-components](https://github.com/rajesh096/raju096/tree/master/2793-count-the-number-of-complete-components) |
@@ -837,6 +840,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/rajesh096/raju096/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/rajesh096/raju096/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/rajesh096/raju096/tree/master/0820-find-eventual-safe-states) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/rajesh096/raju096/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1300-critical-connections-in-a-network](https://github.com/rajesh096/raju096/tree/master/1300-critical-connections-in-a-network) |
 | [1916-find-center-of-star-graph](https://github.com/rajesh096/raju096/tree/master/1916-find-center-of-star-graph) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/rajesh096/raju096/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
