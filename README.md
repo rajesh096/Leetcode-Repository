@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1034-subarrays-with-k-different-integers](https://github.com/rajesh096/raju096/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/rajesh096/raju096/tree/master/1036-rotting-oranges) |
 | [1072-next-greater-node-in-linked-list](https://github.com/rajesh096/raju096/tree/master/1072-next-greater-node-in-linked-list) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/rajesh096/raju096/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1184-car-pooling](https://github.com/rajesh096/raju096/tree/master/1184-car-pooling) |
 | [1206-corporate-flight-bookings](https://github.com/rajesh096/raju096/tree/master/1206-corporate-flight-bookings) |
 | [1308-smallest-string-with-swaps](https://github.com/rajesh096/raju096/tree/master/1308-smallest-string-with-swaps) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/rajesh096/raju096/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0854-making-a-large-island](https://github.com/rajesh096/raju096/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/rajesh096/raju096/tree/master/1036-rotting-oranges) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/rajesh096/raju096/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/rajesh096/raju096/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2035-count-sub-islands](https://github.com/rajesh096/raju096/tree/master/2035-count-sub-islands) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/rajesh096/raju096/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -764,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/rajesh096/raju096/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/rajesh096/raju096/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/rajesh096/raju096/tree/master/1036-rotting-oranges) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/rajesh096/raju096/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1308-smallest-string-with-swaps](https://github.com/rajesh096/raju096/tree/master/1308-smallest-string-with-swaps) |
 | [1484-linked-list-in-binary-tree](https://github.com/rajesh096/raju096/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/rajesh096/raju096/tree/master/2035-count-sub-islands) |
