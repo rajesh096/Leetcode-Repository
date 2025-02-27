@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3193-maximum-strong-pair-xor-i](https://github.com/rajesh096/raju096/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/rajesh096/raju096/tree/master/3291-find-if-array-can-be-sorted) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/rajesh096/raju096/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/rajesh096/raju096/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Database
 |  |
 | ------- |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/rajesh096/raju096/tree/master/0126-word-ladder-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/rajesh096/raju096/tree/master/0357-count-numbers-with-unique-digits) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rajesh096/raju096/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/rajesh096/raju096/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Math
 |  |
 | ------- |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/rajesh096/raju096/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/rajesh096/raju096/tree/master/3412-permutation-difference-between-two-strings) |
 | [3451-string-compression-iii](https://github.com/rajesh096/raju096/tree/master/3451-string-compression-iii) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/rajesh096/raju096/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Game Theory
 |  |
 | ------- |
