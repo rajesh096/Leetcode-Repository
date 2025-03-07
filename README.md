@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/rajesh096/raju096/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/rajesh096/raju096/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/rajesh096/raju096/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rajesh096/raju096/tree/master/0241-different-ways-to-add-parentheses) |
@@ -817,6 +818,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rajesh096/raju096/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/rajesh096/raju096/tree/master/0025-reverse-nodes-in-k-group) |
 | [0237-delete-node-in-a-linked-list](https://github.com/rajesh096/raju096/tree/master/0237-delete-node-in-a-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/rajesh096/raju096/tree/master/0445-add-two-numbers-ii) |
 | [1072-next-greater-node-in-linked-list](https://github.com/rajesh096/raju096/tree/master/1072-next-greater-node-in-linked-list) |
