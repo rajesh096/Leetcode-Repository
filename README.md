@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-special-array-ii](https://github.com/rajesh096/raju096/tree/master/3427-special-array-ii) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/rajesh096/raju096/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3429-special-array-i](https://github.com/rajesh096/raju096/tree/master/3429-special-array-i) |
+| [3483-alternating-groups-ii](https://github.com/rajesh096/raju096/tree/master/3483-alternating-groups-ii) |
 | [3558-find-a-safe-walk-through-a-grid](https://github.com/rajesh096/raju096/tree/master/3558-find-a-safe-walk-through-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/rajesh096/raju096/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Bit Manipulation
@@ -628,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/rajesh096/raju096/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/rajesh096/raju096/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/rajesh096/raju096/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3483-alternating-groups-ii](https://github.com/rajesh096/raju096/tree/master/3483-alternating-groups-ii) |
 ## Counting
 |  |
 | ------- |
